@@ -18,7 +18,6 @@ from utils.constants import (
     SCALING_TOPK,
 )
 
-
 def generate_custom_data(
     num_atoms: int = 10**3,
     len_signal: int = 10**4,

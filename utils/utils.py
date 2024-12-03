@@ -16,8 +16,6 @@ from utils.constants import (
     NOISE_VAR
 )
 
-
-
 @nb.njit
 def set_seed(a: int):
     """
